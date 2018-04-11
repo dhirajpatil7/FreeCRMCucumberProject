@@ -1,0 +1,16 @@
+[
+  {
+    "line": 2,
+    "name": "Free CRM application testing",
+    "description": "",
+    "id": "free-crm-application-testing",
+    "keyword": "Feature",
+    "uri": "D:/New Eclips/JavaWorkspace/FreeCRMCucumberProject/src/main/java/Features/tagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FunctionalTest"
+      }
+    ]
+  }
+]
